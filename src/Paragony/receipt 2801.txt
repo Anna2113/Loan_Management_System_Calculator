@@ -1,0 +1,11 @@
+	 Loan Management System 
+Numer identyfikacyjny: 			4472
+=====================================	 
+Oprocentowanie pozyczki:	 5.2%
+Okres splaty pozyczki:	 10
+Kwota do splaty:			 20000.0 PLN
+Oplata miesieczna: 		 214,09 PLN
+Oplata calkowita: 		25690,99 PLN
+=====================================	 
+Dzien tygodnia: sobota
+Data: 2022-02-12		Czas: 20:57:23
