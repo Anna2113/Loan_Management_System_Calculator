@@ -1,6 +1,6 @@
 ## Loan_Management_System_Calculator - projket systemu zarządzania pożyczkami.
 #### Zaprojektowany w języku Java z wykorzystaniem elemementów JavaFX. 
-#### Po sklonowaniu aplikacji uruchamiamy ją w dowolnym idea np. IntelliJ IDEA Ultimate. Aplikację uruchamiamy za pomoca klasy HelloControler.java (ścieżka do pliku src/main/java/com/example/loanmanagementsystemcalculator/HelloController.java).
+#### Po sklonowaniu aplikacji uruchamiamy ją w dowolnym idea np. IntelliJ IDEA Ultimate. Aplikację uruchamiamy za pomoca klasy HelloControler.java *(ścieżka do pliku src/main/java/com/example/loanmanagementsystemcalculator/HelloController.java)*.
 #### Po uruchomieniu aplikacji, użytkownikowi ukazuje się panel logowania, do którego login i hsało znajdują się w floderze Users.
 
 <img src="Images/screen1.png" alt="screen1" width="400" height="300">
@@ -26,6 +26,6 @@
   
 <img src="Images/screen4.png" alt="screen4" width="300" heigh="180">
 
-W ramach projektu aplikacji, zostały utworzone testy jednostkowe w klasie HelloControllerTest.java (ścieżka do pliku src/test/java/com/example/loanmanagementsystemcalculator/HelloControllerTest.java). Jeden z testów został przygotowany w taki sposób, aby nie przechodził poprawnie.
+W ramach projektu aplikacji, zostały utworzone testy jednostkowe w klasie HelloControllerTest.java *(ścieżka do pliku src/test/java/com/example/loanmanagementsystemcalculator/HelloControllerTest.java)*. Jeden z testów został przygotowany w taki sposób, aby nie przechodził poprawnie.
 
   
