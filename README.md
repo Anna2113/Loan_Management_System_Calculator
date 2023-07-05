@@ -18,12 +18,15 @@
   - It will be possible to save the receipt after it has been generated.
   - The receipt will be saved as a text file to a folder named Paragony.
 
-<img src="Images/screen2.png" alt="screen2" width="450" height="300"> <img src="Images/screen3.png" alt="screen3" width="450" height="300">                                                                                                                                  
-* Wyczyść kalkulator
-  - Po wyczyszczeniu kalkulatora użytkownik ma możliwość ponownego wyliczenia rat i całkowitego kosztu pożyczki, co pozwoli mu następnie na ponowne wygenerowanie paragonu dla nowych danych.
- 
-* Zamknij kalkulator
-  - Użytkownikowi pokazuje się końcowy panel systemu, pozwalający mu na zamknięcie głównego okna systemu.
+<img src="Images/screen2.png" alt="screen2" width="450" height="300"> <img src="Images/screen3.png" alt="screen3" width="450" height="300">                                                                                                                              
+* Clear calculator
+
+  - After clearing the calculator, the user has the option to recalculate the installments and the total cost of the loan, which will then allow
+    the user to re-generate a receipt for the new data.
+
+* Close calculator
+
+  - The user is shown the final panel of the system, allowing him to close the main system window.
   
 <img src="Images/screen4.png" alt="screen4" width="300" heigh="180">
 
