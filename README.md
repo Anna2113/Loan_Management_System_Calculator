@@ -30,6 +30,6 @@
   
 <img src="Images/screen4.png" alt="screen4" width="300" heigh="180">
 
-W ramach projektu aplikacji, zostały utworzone testy jednostkowe w klasie HelloControllerTest.java *(ścieżka do pliku src/test/java/com/example/loanmanagementsystemcalculator/HelloControllerTest.java)*. Jeden z testów został przygotowany w taki sposób, aby nie przechodził poprawnie.
+As part of the application project, unit tests were created in the HelloControllerTest.java class (path to file src/test/java/com/example/loanmanagementsystemcalculator/HelloControllerTest.java). One of the tests was prepared in such a way that it did not pass correctly.
 
   
