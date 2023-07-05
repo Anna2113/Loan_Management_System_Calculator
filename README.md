@@ -1,7 +1,8 @@
 ## Loan_Management_System_Calculator
-#### Zaprojektowany w języku Java z wykorzystaniem elemementów JavaFX. 
-#### Po sklonowaniu aplikacji uruchamiamy ją w dowolnym idea np. IntelliJ IDEA Ultimate. Aplikację uruchamiamy za pomoca klasy HelloControler.java *(ścieżka do pliku src/main/java/com/example/loanmanagementsystemcalculator/HelloController.java)*.
-#### Po uruchomieniu aplikacji, użytkownikowi ukazuje się panel logowania, do którego login i hsało znajdują się w floderze Users.
+
+#### An application designed in Java using JavaFX elements.
+#### After cloning the application, we run it in any idea such as IntelliJ IDEA Ultimate. We run the application using HelloControler.java class (path to file src/main/java/com/example/loanmanagementsystemcalculator/HelloController.java).
+#### After running the application, the user is shown the login panel, for which the login and hsało are located in the Users floder.
 
 <img src="Images/screen1.png" alt="screen1" width="400" height="300">
 
