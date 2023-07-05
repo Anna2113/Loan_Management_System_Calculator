@@ -6,17 +6,17 @@
 
 <img src="Images/screen1.png" alt="screen1" width="400" height="300">
 
-#### Następnie użytkownik zostaje przekierowany do głównego panelu systemu i ma następujące możliwości:
-* Kalkulator pożyczek
-  - Działa po wczęśniejszym wprowadzeniu danych: 
-    - wysokość oprocentowania, 
-    - na ile lat ma być pożyczka
-    - wysokość pożyczki.
-* Wygeneruj paragon
-  - Wygenerowanie paragonu będzie możliwe po obliczeniu wysokości rat wzietej pożyczki oraz po obliczeniu całkowitej kwoty pożyczki.
-* Zapisz
-  - Zapisanie paragonu będzie możliwe po jego wygenerowaniu. 
-  - Paragon zostanie zapisany w formie pliku tekstowego do folderu o nazwie Paragony.
+#### The user is then redirected to the main panel of the system and has the following options:
+* Loan calculator
+  - works after pre-entering data:
+    - amount of interest rate,
+    - how many years the loan is to be for
+    - the amount of the loan.
+* Generate a receipt
+  - It will be possible to generate a receipt after calculating the amount of installments of the loan taken and after calculating the total amount of the loan.
+* Save
+  - It will be possible to save the receipt after it has been generated.
+  - The receipt will be saved as a text file to a folder named Paragony.
 
 <img src="Images/screen2.png" alt="screen2" width="450" height="300"> <img src="Images/screen3.png" alt="screen3" width="450" height="300">                                                                                                                                  
 * Wyczyść kalkulator
